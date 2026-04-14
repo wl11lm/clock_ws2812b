@@ -1,5 +1,7 @@
 Este projeto foi desenvolvido em 2022, logo no início da minha graduação em Engenharia de Computação. O objetivo deste registro é documentar o passo a passo da construção da PCB, preservando os parágrafos e relatos técnicos escritos originalmente na época.
 
+O código do projeto pode ser encontrado no seguinte repositório: [RelógioESP32](https://github.com/wl11lm/ESP32Clock/)
+
 # Passo a passo da PCI
 
 ## 1. Projetando no EasyEDA
